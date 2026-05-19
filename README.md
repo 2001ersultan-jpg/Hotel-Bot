@@ -106,7 +106,7 @@ Booking Process (4 steps):
 → Step 3: Check-out date (DD.MM.YYYY)
 → Step 4: Number of guests
 → Confirmation screen with the total price summary
-Interface Screenshots
+
 ## Interface Screenshots
 
 ![screen_1](screenshots/screen_1.png)
