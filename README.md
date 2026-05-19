@@ -1,4 +1,3 @@
-Markdown
 # 🏨 Hotel Bot — Telegram Bot for Searching and Booking Hotels
 
 ## Project Description
