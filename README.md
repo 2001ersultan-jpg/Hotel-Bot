@@ -107,7 +107,24 @@ Booking Process (4 steps):
 → Step 4: Number of guests
 → Confirmation screen with the total price summary
 Interface Screenshots
-Add your screenshots into the /screenshots/ folder and link them here
+## Interface Screenshots
+
+![screen_1](screenshots/screen_1.png)
+![screen_2](screenshots/screen_2.png)
+![screen_3](screenshots/screen_3.png)
+![screen_4](screenshots/screen_4.png)
+![screen_5](screenshots/screen_5.png)
+![screen_6](screenshots/screen_6.png)
+![screen_7](screenshots/screen_7.png)
+![screen_8](screenshots/screen_8.png)
+![screen_9](screenshots/screen_9.png)
+![screen_10](screenshots/screen_10.png)
+![screen_11](screenshots/screen_11.png)
+![screen_12](screenshots/screen_12.png)
+![screen_13](screenshots/screen_13.png)
+![screen_14](screenshots/screen_14.png)
+![screen_15](screenshots/screen_15.png)
+![screen_16](screenshots/screen_16.png)
 Error Handling
 The bot successfully handles the following edge cases and errors:
  Empty input
