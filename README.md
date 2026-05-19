@@ -96,9 +96,9 @@ User: 🔍 Search Hotels
 Bot: Enter the name of a city or a hotel
 User: Almaty
 Bot: 🏙️ Hotels in Almaty:
-     1. Grand Hotel — ⭐⭐⭐⭐⭐
-        📍 Almaty | 💰 45,000 KZT/night
-     ...
+ 1. Grand Hotel — ⭐⭐⭐⭐⭐
+    📍 Almaty | 💰 45,000 KZT/night
+ ...
 Booking Process (4 steps):
 → Step 1: Guest's name
 → Step 2: Check-in date (DD.MM.YYYY)
